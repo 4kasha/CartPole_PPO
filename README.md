@@ -26,7 +26,7 @@ For more details, see the [wiki](https://github.com/openai/gym/wiki/CartPole-v0)
 
 - [J. Schulman, et al. "Proximal Policy Optimization Algorithms"][ref1]
 - [J. Schulman, et al. "High-Dimensional Continuous Control Using Generalized Advantage Estimation"][ref2]
-- [Deep Reinforcement Learning: Pong from Pixels][ref2], ([Japanese][ref3-1])
+- [Deep Reinforcement Learning: Pong from Pixels][ref3], ([Japanese][ref3-1])
 - [PPO - PyTorch][ref3]
 - [DeepRL][ref4] 
 
