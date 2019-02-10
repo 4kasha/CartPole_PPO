@@ -16,6 +16,8 @@ Two discrete actions are available, corresponding to:
 
 For more details, see the [wiki](https://github.com/openai/gym/wiki/CartPole-v0).
 
+For training results and making animation, see [train.ipynb](train.ipynb). 
+
 ## Dependencies
 
 - Python 3.6
